@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante de Análise é desenvolvimento de sistemas,  atualmente estou no 2° semestre.<br><br>No momento tou em dúvida de qual área querer seguir em ADS, tava pensando em Front-end ou Cibersegurança, meu objetivo e absorver oque a faculdade tem a oferecer. <br><br>Eu tbm faço um curso online de Suporte é manutenção de computadores.</p>
+<p data-importer="text" align="left">Sou estudante de Análise é desenvolvimento de sistemas,  atualmente estou no 2° semestre.<br><br>No momento tou em dúvida de qual área querer seguir em ADS, tava pensando em Front-end ou Cibersegurança, meu objetivo e absorver oque a faculdade tem a oferecer. alem de estudar por fora da faculdade <br><br>Eu tbm faço um curso online de Suporte é manutenção de computadores.</p>
 
 ###
 
